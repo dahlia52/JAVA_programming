@@ -1,4 +1,4 @@
-// 9-4
+// 9-4 마우스 이벤트 리스너 작성 연습 - 마우스로 문자열 이동시키기
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
